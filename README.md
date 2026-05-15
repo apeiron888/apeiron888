@@ -150,11 +150,6 @@ Real-time license plate detection system for traffic enforcement.
 ---
 
 ## GitHub Stats
-
-<div align="center">
-<img src="https://ghchart.rshah.org/7aa2f7/apeiron888" alt="Contribution Graph" />
-</div>
-
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apeiron888&theme=tokyonight" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apeiron888&theme=tokyonight" width="32%" />
