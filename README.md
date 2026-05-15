@@ -152,7 +152,7 @@ Real-time license plate detection system for traffic enforcement.
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=apeiron888&theme=tokyonight&hide_border=true" />
+<img src="https://ghchart.rshah.org/7aa2f7/apeiron888" alt="Contribution Graph" />
 </div>
 
 <div align="center">
