@@ -158,5 +158,5 @@ Real-time license plate detection system for traffic enforcement.
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apeiron888&theme=tokyonight" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apeiron888&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apeiron888&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=apeiron888&theme=tokyonight&utcOffset=3" width="32%" />
 </div>
